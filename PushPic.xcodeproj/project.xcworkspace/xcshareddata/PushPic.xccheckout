@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2E22FFFB-720C-4CA4-A912-61AEE3158330</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PushPic</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1617E0DA-86F7-49A3-AEA8-1DD851020ABD</key>
+		<string>svn+ssh://192.168.1.16/Users/Apple/KPITEng/Pushpic/PushPic%20SVN%20Server</string>
+		<key>5008AE60-F609-4549-B907-5EAF30DD9D9A</key>
+		<string>svn+ssh://192.168.1.170/Users/apple/Desktop/Kiran/SVN_SERVER/ThreeDM/ThreeDM/Utility/MBProgressHUB</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PushPic/PushPic.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1617E0DA-86F7-49A3-AEA8-1DD851020ABD</key>
+		<string>../../..</string>
+		<key>5008AE60-F609-4549-B907-5EAF30DD9D9A</key>
+		<string>../../PushPic/Utility/MBProgressHUB</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>1617E0DA-86F7-49A3-AEA8-1DD851020ABD</key>
+		<string>svn+ssh://192.168.1.16/Users/Apple/KPITEng/Pushpic/PushPic%20SVN%20Server</string>
+		<key>5008AE60-F609-4549-B907-5EAF30DD9D9A</key>
+		<string>svn+ssh://192.168.1.170/Users/apple/Desktop/Kiran/SVN_SERVER</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn+ssh://192.168.1.16/Users/Apple/KPITEng/Pushpic/PushPic%20SVN%20Server/PushPic/PushPic.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1617E0DA-86F7-49A3-AEA8-1DD851020ABD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1617E0DA-86F7-49A3-AEA8-1DD851020ABD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PushPicCode</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5008AE60-F609-4549-B907-5EAF30DD9D9A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MBProgressHUB</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,31 @@
+//
+// Prefix header for all source files of the 'PushPic' target in the 'PushPic' project
+//
+
+#import <Availability.h>
+#import "PushPicAppDelegate.h"
+
+#ifndef __IPHONE_4_0
+#warning "This project uses features only available in iOS SDK 4.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import "CUtils.h"
+#endif
+
+#define USERDETAIL  @"USERDETAIL"
+#define USERNAME    @"USERNAME"
+#define PASSWORD    @"PASSWORD"
+#define LOGINTYPE   @"LOGINTYPE"
+#define CAMERAPOS   @"CAMERAPOS"
+
+#define NOTIFICATION_COUNT @"NOTIFICATION_COUNT"
+#define APPDEL [PushPicAppDelegate sharedInstance]
+#define ACCOUNTSHAREINS [AccountClass AcccountShareClass]
+#define APPNAME @"Pushpic"
+#define HUDLABEL  @""
+#define showAlertDelNil(strMessage) UIAlertView *alertUseThis = [[UIAlertView alloc]initWithTitle:APPNAME message:strMessage delegate:nil cancelButtonTitle:@"OK" otherButtonTitles:nil, nil];[alertUseThis show];
+
+#define FBAppId @"646005418776832"
